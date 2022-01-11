@@ -42,7 +42,6 @@ monetr may disclose your personal information, without notice, if required to do
 - First and Last Name
 - E-mail Address
 
-
 good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply
 with legal process served on monetr or the site; (b) protect and defend the rights or property of
 monetr; and/or (c) act under exigent circumstances to protect the personal safety of users of
@@ -88,7 +87,6 @@ ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES).**
 - Comply with an existing legal obligation; or
 - Otherwise use your personal information, internally, in a lawful manner that is
     compatible with the context in which you provided the information.
-
 
 **IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY
 IDENTIFYING INFORMATION, TO BE SHARED IN THIS MANNER, DO NOT USE**

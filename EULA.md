@@ -89,7 +89,6 @@ ABILITY TO DISCLAIM ANY IMPLIED WARRANTIES, THIS DISCLAIMER SHALL BE
 EFFECTIVE TO THE MAXIMUM EXTENT PERMITTED.**
 
 ## Limitation of Remedies and Damages
-
 Any claim must be made within the applicable warranty period. All warranties cover only defects
 arising under normal use and do not include malfunctions or failure resulting from misuse, abuse,
 neglect, alteration, problems with electrical power, acts of nature, unusual temperatures or
