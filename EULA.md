@@ -28,8 +28,6 @@ Product, please contact:
 
 ```
 Representative: Customer Support
-Address: _________________
-_________________, _________________ _________________
 Phone Number: (651) 243- 0035
 E-mail Address: support@monetr.app
 ```
