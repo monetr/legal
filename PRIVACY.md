@@ -10,6 +10,9 @@ consent to the data practices described in this statement.
 In order to better provide you with products and services offered, monetr may collect personally
 identifiable information, such as your:
 
+- First and Last Name
+- E-mail Address
+
 If you purchase monetr's products and services, we collect billing and credit card information. This
 information is used to complete the purchase transaction.
 
@@ -38,10 +41,6 @@ prohibited from using your personal information except to provide these services
 they are required to maintain the confidentiality of your information.
 
 monetr may disclose your personal information, without notice, if required to do so by law or in the
-
-- First and Last Name
-- E-mail Address
-
 good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply
 with legal process served on monetr or the site; (b) protect and defend the rights or property of
 monetr; and/or (c) act under exigent circumstances to protect the personal safety of users of
@@ -50,8 +49,32 @@ monetr, or the public.
 ## Right to Deletion
 Subject to certain exceptions set out below, on receipt of a verifiable request from you, we will:
 
+- Delete your personal information from our records; and
+- Direct any service providers to delete your personal information from their records.
+
 Please note that we may not be able to comply with requests to delete your personal information if
 it is necessary to:
+
+- Complete the transaction for which the personal information was collected, fulfill the
+  terms of a written warranty or product recall conducted in accordance with federal
+  law, provide a good or service requested by you, or reasonably anticipated within the
+  context of our ongoing business relationship with you, or otherwise perform a contract
+  between you and us;
+- Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal
+  activity; or prosecute those responsible for that activity;
+- Debug to identify and repair errors that impair existing intended functionality;
+- Exercise free speech, ensure the right of another consumer to exercise his or her right
+  of free speech, or exercise another right provided for by law;
+- Comply with the California Electronic Communications Privacy Act;
+- Engage in public or peer-reviewed scientific, historical, or statistical research in the
+  public interest that adheres to all other applicable ethics and privacy laws, when our
+  deletion of the information is likely to render impossible or seriously impair the
+  achievement of such research, provided we have obtained your informed consent;
+- Enable solely internal uses that are reasonably aligned with your expectations based on
+  your relationship with us;
+- Comply with an existing legal obligation; or
+- Otherwise use your personal information, internally, in a lawful manner that is
+  compatible with the context in which you provided the information.
 
 ## Children Under Thirteen
 monetr does not knowingly collect personally identifiable information from children under the age
@@ -64,29 +87,6 @@ YOUR MONETR ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU
 ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE
 CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN
 ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES).**
-
-- Delete your personal information from our records; and
-- Direct any service providers to delete your personal information from their records.
-- Complete the transaction for which the personal information was collected, fulfill the
-    terms of a written warranty or product recall conducted in accordance with federal
-    law, provide a good or service requested by you, or reasonably anticipated within the
-    context of our ongoing business relationship with you, or otherwise perform a contract
-    between you and us;
-- Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal
-    activity; or prosecute those responsible for that activity;
-- Debug to identify and repair errors that impair existing intended functionality;
-- Exercise free speech, ensure the right of another consumer to exercise his or her right
-    of free speech, or exercise another right provided for by law;
-- Comply with the California Electronic Communications Privacy Act;
-- Engage in public or peer-reviewed scientific, historical, or statistical research in the
-    public interest that adheres to all other applicable ethics and privacy laws, when our
-    deletion of the information is likely to render impossible or seriously impair the
-    achievement of such research, provided we have obtained your informed consent;
-- Enable solely internal uses that are reasonably aligned with your expectations based on
-    your relationship with us;
-- Comply with an existing legal obligation; or
-- Otherwise use your personal information, internally, in a lawful manner that is
-    compatible with the context in which you provided the information.
 
 **IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY
 IDENTIFYING INFORMATION, TO BE SHARED IN THIS MANNER, DO NOT USE**
