@@ -1,0 +1,28 @@
+name: Bot
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  release_please:
+    name: Release Please
+    runs-on: ubuntu-latest
+    outputs:
+      release_created: ${{ steps.release.outputs.release_created }}
+      version: "${{ steps.release.outputs.major }}.${{ steps.release.outputs.minor }}.${{ steps.release.outputs.patch }}"
+    steps:
+      - uses: GoogleCloudPlatform/release-please-action@v3
+        id: release
+        with:
+          changelog-types: |
+            [
+              {"type":"change","section":"Changes","hidden":false},
+              {"type":"fix","section":"Bug Fixes","hidden":false},
+              {"type":"chore","section":"Miscellaneous","hidden":false},
+              {"type":"ci","section":"Automation","hidden":false}
+            ]
+          release-type: simple
+          package-name: legal
+          version-file: version.txt
