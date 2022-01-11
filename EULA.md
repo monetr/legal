@@ -45,9 +45,6 @@ copy, or install the Software Product on any system with more than the number of
 permitted by license, or permit the use, copying, or installation by more users, or on more
 computers than the number permitted by license.
 
-You may not decompile, "reverse-engineer", disassemble, or otherwise attempt to derive the
-source code for the Software Product.
-
 ## Restrictions on Alteration
 You may not modify the Software Product or create any derivative work of the Software Product
 or its accompanying documentation. Derivative works include but are not limited to translations.
