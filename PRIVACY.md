@@ -18,10 +18,10 @@ information is used to complete the purchase transaction.
 
 We do not collect any personal information about you unless you voluntarily provide it to us.
 However, you may be required to provide certain personal information to us when you elect to use
-certain products or services. These may include: (a) registering for an account; (b) signing up for 
-special offers from selected third parties; (c) sending us an email message; (d) submitting your 
-credit card or other payment information when ordering and purchasing products and services. To wit, 
-we will use your information for, but not limited to, communicating with you in relation to services 
+certain products or services. These may include: (a) registering for an account; (b) signing up for
+special offers from selected third parties; (c) sending us an email message; (d) submitting your
+credit card or other payment information when ordering and purchasing products and services. To wit,
+we will use your information for, but not limited to, communicating with you in relation to services
 and/or products you have requested from us. We also may gather additional personal or non-personal
 information in the future.
 
@@ -35,10 +35,10 @@ services available from monetr and its affiliates.
 ## Sharing Information with Third Parties
 monetr does not sell, rent or lease its customer lists to third parties.
 
-monetr may share data with trusted partners to help perform statistical analysis, send you email or
-postal mail, provide customer support, or arrange for deliveries. All such third parties are
-prohibited from using your personal information except to provide these services to monetr, and
-they are required to maintain the confidentiality of your information.
+monetr may share data with trusted partners to help perform statistical analysis, send you email, or
+provide customer support. All such third parties are prohibited from using your personal information
+except to provide these services to monetr, and they are required to maintain the confidentiality of
+your information.
 
 monetr may disclose your personal information, without notice, if required to do so by law or in the
 good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply
@@ -126,4 +126,4 @@ support@monetr.app
 Telephone number:
 651 - 243 - 0035
 
-Effective as of January 05, 2022
+Effective as of September 12, 2022
