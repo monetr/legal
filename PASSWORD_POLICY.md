@@ -1,4 +1,4 @@
-# Passowrd Policy
+# Password Policy
 
 ## 1. Overview
 
