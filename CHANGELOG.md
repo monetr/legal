@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/monetr/legal/compare/v1.1.0...v1.1.1) (2024-02-19)
+
+
+### Miscellaneous
+
+* **password:** Fixing typo. ([ca08f9e](https://github.com/monetr/legal/commit/ca08f9e565a9153e01db3cbb237564bbd807aee7))
+
 ## [1.1.0](https://github.com/monetr/legal/compare/v1.0.0...v1.1.0) (2022-09-17)
 
 
